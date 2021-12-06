@@ -36,19 +36,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:szekany@umich.edu'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/szekany
+  link: 'mailto:thlarsen@umich.edu'
 #- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
 #  icon_pack: fas
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/szekany
+  link: https://github.com/thlarsen13
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/szekany
+  link: https://www.linkedin.com/in/thomas-larsen-518790198/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 

@@ -20,13 +20,13 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: szekany@umich.edu
-phone: 734 239 3772
+email: thlarsen@umich.edu
+phone: 734 249 3565
 address:
-  street: 2696 Antietam Ct.
+  street: 21 Regent Dr.
   city: Ann Arbor
   region: MI
-  postcode: '48105'
+  postcode: '48104'
   country: United States
   country_code: US
 coordinates:
@@ -38,10 +38,10 @@ coordinates:
 #   - 'Wednesday 09:00 to 10:00'
 # appointment_url: 'https://calendly.com'
 contact_links:
-  - icon: twitter
-    icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/szekany'
+#   - icon: twitter
+#     icon_pack: fab
+#     name: DM Me
+#     link: 'https://twitter.com/szekany'
   # - icon: skype
   #   icon_pack: fab
   #   name: Skype Me
