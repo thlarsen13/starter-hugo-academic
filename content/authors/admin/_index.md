@@ -46,7 +46,7 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/thomas-larsen-518790198/
--icon: calendar 
+- icon: calendar 
   icon_pack: fas 
   link: https://calendly.com/thlarsen
 
