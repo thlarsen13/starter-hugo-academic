@@ -6,7 +6,7 @@ title: Thomas Larsen
 superuser: true
 
 # Role/position/tagline
-role: Mathematics and Computer Science Major
+role: Math/CS Undergraduate. Research Assistant. Effective Altruist. 
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -46,6 +46,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/thomas-larsen-518790198/
+-icon: calendar 
+  icon_pack: fas 
+  link: https://calendly.com/thlarsen
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -59,9 +62,12 @@ email: ""
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
----
+--- 
 
-I am an undergraduate at the University of Michigan graduating in May 2022. I am working on a senior thesis. Research and stuff 
- <!-- I am co-advised by [Tom Wenisch](https://web.eecs.umich.edu/~twenisch/) and [Ron Dreslinski](https://web.eecs.umich.edu/~rdreslin/). My research is primarily on software systems for visual analytics: developing frameworks and techniques at scale to leverage existing computer vision models and kernels. I am currently working on a project funded by the [ADA (Applications Driving Architectures) Center](http://www.adacenter.org), previously having worked on projects funded by [Toyota Research Institute](https://www.tri.global/) and [ARM](http://www.arm.com). I interned at ARM three times, once with the CPU Engineering group (helping design what became the [Cortex-A76](https://en.wikipedia.org/wiki/ARM_Cortex-A76)) and twice with the High Performance Computing Research group. -->
-I like teaching and blah blah blah 
-<!-- I am a strong proponent of computer science education for all, having taught at the high school through graduate level. I recently served as a primary instructor for the undergraduate computer architecture course at Michigan ([EECS 370](https://eecs370.github.io/)), and my paper on teaching out-of-order RISC-V core design as a capstone undergraduate course ([EECS 470](https://www.eecs.umich.edu/courses/eecs470/)) was published at SIGCSE '21. -->
+Hi, I'm Thomas! I am a fourth year Math and CS student at the University of Michigan graduating in May 2022. I am seeking a technical ML job for which I can apply my skills to create a positive impact.   
+
+My research interests are very broad -- I am interested in the big picture questions having to do with how to make safe AI systems that can make a positive social impact. I am working on an undergraduate thesis, and am grateful to be advised by [Tom Wenisch](https://web.eecs.umich.edu/~twenisch/). I am developing algorithms to robustly represent uncertainty within neural networks, in particular, maintaining high quality uncertainty estimations, under distribution shift. 
+
+I am excited about [Effective Altruism](https://www.effectivealtruism.org/), and am one of the organizers of the University of Michigan Effective Altrusim club. 
+
+In my free time, I enjoy rock climbing, telemark skiing, and reading. 
