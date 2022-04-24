@@ -42,7 +42,7 @@ featured: false
 # Custom links (uncomment lines below)
 links:
 
-url_pdf: 'undergraduate_thesis.pdf'
+url_pdf: 'publications/senior_thesis/undergraduate_thesis.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
