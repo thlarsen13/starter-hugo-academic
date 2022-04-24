@@ -18,8 +18,8 @@ bio:
 
 # Interests to show in About widget
 interests:
-- Machine Learning
-- Uncertainty Quantification in Deep Neural Networks 
+- AI Safety
+- Uncertainty under Distribution Shift
 - Decision Theory 
 
 # Education to show in About widget

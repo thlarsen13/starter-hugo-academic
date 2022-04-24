@@ -40,10 +40,10 @@ tags: []
 featured: false
 
 # Custom links (uncomment lines below)
-<!-- links:
- - name: Slides (PPT)
+links:
+ - name: ""
    url: ""
- -->
+
 url_pdf: 'undergraduate_thesis.pdf'
 url_code: ''
 url_dataset: ''
