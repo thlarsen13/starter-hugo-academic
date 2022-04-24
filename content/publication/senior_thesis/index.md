@@ -40,10 +40,10 @@ tags: []
 featured: false
 
 # Custom links (uncomment lines below)
-<!-- links:
+links:
  - name: Slides (PPT)
-   url: https://docs.google.com/presentation/d/1LXJC9QWPG4b4gz-O9UTQtca3YiC0Ub9T/edit?usp=sharing&ouid=117370703190601304810&rtpof=true&sd=true
- -->
+   url: ""
+
 url_pdf: 'undergraduate_thesis.pdf'
 url_code: ''
 url_dataset: ''
