@@ -49,7 +49,7 @@ url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-<!-- url_slides: 'ITSC_VehiQL_2019_slides.pdf' -->
+url_slides: ''
 url_source: ''
 url_video: ''
 
