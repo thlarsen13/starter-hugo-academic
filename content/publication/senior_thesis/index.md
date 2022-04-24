@@ -1,5 +1,5 @@
 ---
-title: "Classifying Ego-Vehicle Road Maneuvers from Dashcam Video"
+title: "Empirically Calibrating Neural Network Confidence under Distribution Shift"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -29,7 +29,7 @@ publication_types: ["7"]
 publication: 
 publication_short: 
 
-abstract: We propose a novel method to improve the calibration of neural networks under distribution shift. This method involves including an expected calibration error (ECE) term in the loss function in addition to a normal cross entropy term. We implement and evaluate this method on a variety of distribution shifts using the MNIST and CIFAR datasets as our training sets. We create a custom scale to measure the intensity of different shifts with intensities ranging from $1-10$. We give an example of such a shift on MNIST in Figure $\ref{mnist_contrast}$. The proposed solution significantly outperforms a baseline model trained without explicit uncertainty quantification. We evaluate these models on each shift and each intensity. On CIFAR-10, our method achieves an overall average of $.065$ test ECE, significantly outperforming the baseline model, which achieves $.234$ ECE. 
+abstract: We propose a novel method to improve the calibration of neural networks under distribution shift. This method involves including an expected calibration error (ECE) term in the loss function in addition to a normal cross entropy term. We implement and evaluate this method on a variety of distribution shifts using the MNIST and CIFAR datasets as our training sets. We create a custom scale to measure the intensity of different shifts with intensities ranging from 1-10. The proposed solution significantly outperforms a baseline model. We evaluate these models on each shift and each intensity. On CIFAR-10, our method achieves an overall average of .065 test ECE, significantly outperforming the baseline model, which achieves .234 ECE. 
 
 # Summary. An optional shortened abstract.
 summary: 

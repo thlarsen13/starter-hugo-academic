@@ -71,3 +71,10 @@ My research interests are very broad -- I am interested in the big picture quest
 I am excited about [Effective Altruism](https://www.effectivealtruism.org/), and am one of the organizers of the University of Michigan Effective Altrusim club. 
 
 In my free time, I enjoy rock climbing, telemark skiing, and reading. 
+
+
+Due to the the rapidly advancing capabilities in Artificial Intelligence (AI), I believe that aligning AI with human values is [a key global priority](https://drive.google.com/file/d/1uK7NhdSKprQKZnRjU58X7NLA1auXlWHt/view). I am aiming to use [my career](https://80000hours.org/career-reviews/ai-safety-researcher/) to reduce the risks associated with the development of Artificial General Intelligence (AGI). 
+
+I am currently seeking to test my fit in doing AI alignment. 
+
+I wrote my undergraduate thesis on maintaining high quality uncertainty estimations, under distribution shift. and am grateful to be advised by [Tom Wenisch](https://web.eecs.umich.edu/~twenisch/). 
